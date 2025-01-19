@@ -1,6 +1,3 @@
-#von Gero
-#Github:loliamstupid
-#Konktakt: EMPTY
 import random
 zufallsantwort =['oh wirklich', 'interessant...', 'kann man so sehen ','aah ich verstehe ']
 reaktionsantworten = {"hallo":   "aber Hallo",
@@ -53,7 +50,7 @@ reaktionsantworten = {"hallo":   "aber Hallo",
                       'was ist dein lieblingsbuch':    'ich bin ein chatbot ich habe keinen lieblingsbuch',
                       'was ist dein lieblingsfilm':    'ich bin ein chatbot ich habe keinen lieblingsfilm',
                       'was ist dein lieblingshobby':    'ich bin ein chatbot ich habe keinen lieblingshobby',
-                      'help':   'kontakt unter Github loliamstupid'
+                      'help':   'kontakt unter Github '
 
 
 
