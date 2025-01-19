@@ -49,7 +49,7 @@ reaktionsantworten = {"hallo":   "aber Hallo",
                       'was ist dein lieblingsauto':    'ich bin ein chatbot ich habe keinen lieblingsauto',
                       'was ist dein lieblingsbuch':    'ich bin ein chatbot ich habe keinen lieblingsbuch',
                       'was ist dein lieblingsfilm':    'ich bin ein chatbot ich habe keinen lieblingsfilm',
-                      'was ist dein lieblingshobby':    'ich bin ein chatbot ich habe keinen lieblingshobby',
+                      'was ist dein lieblingshobby':   'ich bin ein chatbot ich habe keinen lieblingshobby',
 
 
 
