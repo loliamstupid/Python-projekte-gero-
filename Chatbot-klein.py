@@ -57,6 +57,7 @@ reaktionsantworten = {"hallo":   "aber Hallo",
 
 
 
+
 					  }
 
 print('wilkommen beim chatbot')
