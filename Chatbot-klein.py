@@ -1,6 +1,6 @@
 #von Gero
 #Github:loliamstupid
-#Konktakt:gero.batt@gmail.com
+#Konktakt: EMPTY
 import random
 zufallsantwort =['oh wirklich', 'interessant...', 'kann man so sehen ','aah ich verstehe ']
 reaktionsantworten = {"hallo":   "aber Hallo",
